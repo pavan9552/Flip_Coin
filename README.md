@@ -20,3 +20,12 @@ npm install
 
 # Run the development server
 npm run dev
+
+##Usage
+
+Once the development server is running, open your browser and visit:
+
+http://localhost:3000
+
+
+(or the port shown in your terminal) to use the app.
